@@ -31,5 +31,19 @@ If you have a project you would like to receive feedback on, please follow these
 
    ## Project list
 
+| Name  | Project | Repository  | Test link |
+| ----- | ----- | ------ | ----- |
+| Methemeticz   | Verdict: prediction market     |
+| Wadie      | Eterna Registry: on-chain land registration     |
+| RJnr      | Pocket Node: light client android wallet     |
+| Phill      | Blackbox: POS terminal     |
+| Aditya      | DripFund: crowdfunding     |
+| Naitik      | CKB Arcade: minigames and lottery     |
+| Petelgeuse      | CKB-PoP: proof of participation     |
+| Oluwaseun      | InheritVault: time-locked inheritance     |
+| Dragon Dev      | Dragon Rush: 3 match game     |
+| Mil0      | (Untitled): decentralized credentials     |
+| Smilez      | Cvent: Event ticketing     |
+
    TBC
   
