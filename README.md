@@ -44,7 +44,8 @@ If you have a project you would like to receive feedback on, please follow these
 | Dragon Dev      | Dragon Rush: 3 match game     | https://github.com/mememadness       |  https://dragon-test.mememadness.xyz/         |
 | Mil0      | (Untitled): decentralized credentials     |
 | Smilez      | Cvent: Event ticketing     | https://github.com/RobaireTH/ckb-PoP.git       |  https://cvent-chi.vercel.app/      |
-| Rick      | CKB Kickstarter     |     https://github.com/RickSoze001/ckb-builder-progress-report/blob/main/Week_13.md   |         |
+| MorseCode | MintGate: gated communities | | https://mint-gate.vercel.app/ | 
+| Rick      | CKB Kickstarter     |     https://github.com/RickSoze001/ckb-builder-progress-report/blob/main/Week_13.md   | https://decentralized-kickstarter-kappa.vercel.app/        |
 
    TBC
   
