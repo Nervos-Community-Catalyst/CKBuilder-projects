@@ -35,14 +35,13 @@ If you have a project you would like to receive feedback on, please follow these
 | ----- | ----- | ------ | ----- |
 | Methemeticz   | Verdict: prediction market     |  https://github.com/JouahriAli/ckb-prediction-market      |  https://verdict-three.vercel.app/       |
 | Wadie      | Eterna Registry: on-chain land registration     |        |  https://ckb-registry.vercel.app/        |
-| RJnr      | Pocket Node: light client android wallet     | https://github.com/RaheemJnr/pocket-node/releases       |  https://pocket-node.vercel.app/         |
-| Phill      | Blackbox: POS terminal     |  https://github.com/toastmanAu/Blackbox-Binaries       |         |
+| RJnr      | Pocket Node: light client android wallet     | https://github.com/RaheemJnr/pocket-node/releases       |  https://www.pocket-node.com         |
+| Phill      | Blackbox: POS terminal     |  https://github.com/toastmanAu/Blackbox-Binaries       |   https://www.blackboxpos.com      |
 | Aditya      | DripFund: crowdfunding     |  https://github.com/adisuyash/ckb-notes/tree/main/buy-me-a-coffee       |  https://dripfund.vercel.app/         |
 | Naitik      | CKB Arcade: minigames and lottery     |  https://github.com/GxNaitik/ckb-arcade/blob/main/weekly-logs/week6.md       |  https://ckb-spintowin.vercel.app/         |
 | Petelgeuse      | CKB-PoP: proof of participation     | https://github.com/RobaireTH/ckb-PoP.git       |  https://ckb-pop.xyz/#/         |
 | Oluwaseun      | InheritVault: time-locked inheritance     |    https://inherit-vault.vercel.app/    |  https://inherit-vault.vercel.app/         |
 | Dragon Dev      | Dragon Rush: 3 match game     | https://github.com/mememadness       |  https://dragon-test.mememadness.xyz/         |
-| Mil0      | (Untitled): decentralized credentials     |
 | Smilez      | Cvent: Event ticketing     | https://github.com/RobaireTH/ckb-PoP.git       |  https://cvent-chi.vercel.app/      |
 | MorseCode | MintGate: gated communities | | https://mint-gate.vercel.app/ | 
 | Rick      | CKB Kickstarter     |     https://github.com/RickSoze001/ckb-builder-progress-report/blob/main/Week_13.md   | https://decentralized-kickstarter-kappa.vercel.app/        |
