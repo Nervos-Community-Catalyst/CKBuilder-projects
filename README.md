@@ -46,6 +46,6 @@ If you have a project you would like to receive feedback on, please follow these
 | MorseCode | MintGate: gated communities | | https://mint-gate.vercel.app/ | 
 | Rick      | CKB Kickstarter     |     https://github.com/RickSoze001/ckb-builder-progress-report/blob/main/Week_13.md   | https://decentralized-kickstarter-kappa.vercel.app/        |
 | Amine | CKB Node Manager | https://github.com/Amine1n1/ckb-node-manager/releases/tag/v1.0.0 |
-
+| Chetan      | ChainPress     |  https://github.com/chetanchauhan64/CKB-Academy-Progress/tree/main/frontend      |   https://ckb-academy-progress.vercel.app/      |
    TBC
   
