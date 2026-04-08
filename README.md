@@ -31,21 +31,30 @@ If you have a project you would like to receive feedback on, please follow these
 
    ## Project list
 
-| Name  | Project | Repository  | Test link |
-| ----- | ----- | ------ | ----- |
-| Methemeticz   | Verdict: prediction market     |  https://github.com/JouahriAli/ckb-prediction-market      |  https://verdict-three.vercel.app/       |
-| Wadie      | Eterna Registry: on-chain land registration     |        |  https://ckb-registry.vercel.app/        |
-| RJnr      | Pocket Node: light client android wallet     | https://github.com/RaheemJnr/pocket-node/releases       |  https://www.pocket-node.com         |
-| Phill      | Blackbox: POS terminal     |  https://github.com/toastmanAu/Blackbox-Binaries       |   https://www.blackboxpos.com      |
-| Aditya      | DripFund: crowdfunding     |  https://github.com/adisuyash/ckb-notes/tree/main/buy-me-a-coffee       |  https://dripfund.vercel.app/         |
-| Naitik      | CKB Arcade: minigames and lottery     |  https://github.com/GxNaitik/ckb-arcade/blob/main/weekly-logs/week6.md       |  https://ckb-spintowin.vercel.app/         |
-| Petelgeuse      | CKB-PoP: proof of participation     | https://github.com/RobaireTH/ckb-PoP.git       |  https://ckb-pop.xyz/#/         |
-| Oluwaseun      | InheritVault: time-locked inheritance     |    https://inherit-vault.vercel.app/    |  https://inherit-vault.vercel.app/         |
-| Dragon Dev      | Dragon Rush: 3 match game     | https://github.com/mememadness       |  https://dragon-test.mememadness.xyz/         |
-| Smilez      | Cvent: Event ticketing     | https://github.com/RobaireTH/ckb-PoP.git       |  https://cvent-chi.vercel.app/      |
-| MorseCode | MintGate: gated communities | | https://mint-gate.vercel.app/ | 
-| Rick      | CKB Kickstarter     |     https://github.com/RickSoze001/ckb-builder-progress-report/blob/main/Week_13.md   | https://decentralized-kickstarter-kappa.vercel.app/        |
-| Amine | CKB Node Manager | https://github.com/Amine1n1/ckb-node-manager/releases/tag/v1.0.0 |
-| Chetan      | ChainPress     |  https://github.com/chetanchauhan64/CKB-Academy-Progress/tree/main/frontend      |   https://ckb-academy-progress.vercel.app/      |
+| Name  | Project | Repository  | Test link | Development status |
+| ----- | ----- | ------ | ----- | ----- |
+| Methemeticz   | Verdict: prediction market     |  https://github.com/JouahriAli/ckb-prediction-market      |  https://verdict-three.vercel.app/       | Ongoing |
+| Wadie      | Eterna Registry: on-chain land registration     |        |  https://ckb-registry.vercel.app/        | Inactive | 
+| RJnr      | Pocket Node: light client android wallet     | https://github.com/RaheemJnr/pocket-node/releases       |  https://www.pocket-node.com         | Ongoing |
+| Phill      | Blackbox: POS terminal     |  https://github.com/toastmanAu/Blackbox-Binaries       |   https://www.blackboxpos.com      | Ongoing |
+| Aditya      | DripFund: crowdfunding     |  https://github.com/adisuyash/ckb-notes/tree/main/buy-me-a-coffee       |  https://dripfund.vercel.app/         | Implementing feedback |
+| Naitik      | CKB Arcade: minigames and lottery     |  https://github.com/GxNaitik/ckb-arcade/blob/main/weekly-logs/week6.md       |  https://ckb-spintowin.vercel.app/         | Implementing feedback |
+| Petelgeuse      | CKB-PoP: proof of participation     | https://github.com/RobaireTH/ckb-PoP.git       |  https://ckb-pop.xyz/#/         | Implementing feedback |
+| Oluwaseun      | InheritVault: time-locked inheritance     |    https://inherit-vault.vercel.app/    |  https://inherit-vault.vercel.app/         | Implementing feedback |
+| Dragon Dev      | Dragon Rush: 3 match game     | https://github.com/mememadness       |  https://dragon-test.mememadness.xyz/         | Ongoing |
+| Smilez      | Cvent: Event ticketing     | https://github.com/RobaireTH/ckb-PoP.git       |  https://cvent-chi.vercel.app/      | Demo complete | 
+| MorseCode | MintGate: gated communities | | https://mint-gate.vercel.app/ | Ongoing |
+| Rick      | CKB Kickstarter     |     https://github.com/RickSoze001/ckb-builder-progress-report/blob/main/Week_13.md   | https://decentralized-kickstarter-kappa.vercel.app/        | Ongoing |
+| Amine | CKB Node Manager | https://github.com/Amine1n1/ckb-node-manager/releases/tag/v1.0.0 | Ongoing |
+| Chetan      | ChainPress     |  https://github.com/chetanchauhan64/CKB-Academy-Progress/tree/main/frontend      |   https://ckb-academy-progress.vercel.app/      | Awaiting feedback |
+| Truthixify | Grid3 | https://github.com/truthixify/grid3 | https://grid3-ckb.vercel.app/ | Awaiting feedback |
+| Truthixify | Haven Protocol  | https://github.com/truthixify/haven |  | Awaiting feedback |
+| vibes | Ohrex Protocol | https://github.com/Radiiplus/ckbuilders/blob/main/README.md |  Awaiting feedback |
+| Oluwaseun | PactAgent | https://github.com/Ajayfrizzy/pactagent | https://www.pactagent.online/ | Ongoing |
+| Petelgeuse | NERVE marketplace | https://github.com/RobaireTH/NERVE/ | https://nerve-docs.vercel.app/ | Ongoing | 
+| Destiny | Lean Oracle | https://github.com/calledAdo/ckb-buillder-track/tree/main/lean_oracle | | Ongoing | 
+| Destiny | Lenderr | https://github.com/calledAdo/ckb-buillder-track/tree/main/lenderr_project | | Ongoing | 
+
+
    TBC
   
