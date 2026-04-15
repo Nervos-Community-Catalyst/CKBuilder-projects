@@ -53,7 +53,8 @@ If you have a project you would like to receive feedback on, please follow these
 | Oluwaseun | PactAgent | [Link](https://github.com/Ajayfrizzy/pactagent) | https://www.pactagent.online/ | Ongoing |
 | Petelgeuse | NERVE marketplace | [Link](https://github.com/RobaireTH/NERVE/) | https://nerve-docs.vercel.app/ | Ongoing | 
 | Destiny | Lean Oracle | [Link](https://github.com/calledAdo/ckb-buillder-track/tree/main/lean_oracle) | | Ongoing | 
-| Destiny | Lenderr | [Link](https://github.com/calledAdo/ckb-buillder-track/tree/main/lenderr_project) | | Ongoing | 
+| Destiny | Lenderr | [Link](https://github.com/calledAdo/ckb-buillder-track/tree/main/lenderr_project) | | Ongoing |
+| Williams | CKB Privacy Mixer | [Link](https://github.com/willy264/ckb-privacy-mixer) | | Ongoing |
 
 
    TBC
