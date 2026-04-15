@@ -45,11 +45,11 @@ If you have a project you would like to receive feedback on, please follow these
 | Smilez      | Cvent: Event ticketing     | [Link](https://github.com/RobaireTH/ckb-PoP.git)       |  https://cvent-chi.vercel.app/      | Demo complete | 
 | MorseCode | MintGate: gated communities | | https://mint-gate.vercel.app/ | Ongoing |
 | Rick      | CKB Kickstarter     |     [Link](https://github.com/RickSoze001/ckb-builder-progress-report/blob/main/Week_13.md)   | https://decentralized-kickstarter-kappa.vercel.app/        | Ongoing |
-| Amine | CKB Node Manager | [Link](https://github.com/Amine1n1/ckb-node-manager/releases/tag/v1.0.0) | Ongoing |
+| Amine | CKB Node Manager | [Link](https://github.com/Amine1n1/ckb-node-manager/releases/tag/v1.0.0) | | Ongoing |
 | Chetan      | ChainPress     |  [Link](https://github.com/chetanchauhan64/CKB-Academy-Progress/tree/main/frontend)      |   https://ckb-academy-progress.vercel.app/      | Awaiting feedback |
 | Truthixify | Grid3 | [Link](https://github.com/truthixify/grid3) | https://grid3-ckb.vercel.app/ | Awaiting feedback |
 | Truthixify | Haven Protocol  | [Link](https://github.com/truthixify/haven) |  | Awaiting feedback |
-| vibes | Ohrex Protocol | [Link](https://github.com/Radiiplus/ckbuilders/blob/main/README.md) |  Awaiting feedback |
+| vibes | Ohrex Protocol | [Link](https://github.com/Radiiplus/ckbuilders/blob/main/README.md) | |  Awaiting feedback |
 | Oluwaseun | PactAgent | [Link](https://github.com/Ajayfrizzy/pactagent) | https://www.pactagent.online/ | Ongoing |
 | Petelgeuse | NERVE marketplace | [Link](https://github.com/RobaireTH/NERVE/) | https://nerve-docs.vercel.app/ | Ongoing | 
 | Destiny | Lean Oracle | [Link](https://github.com/calledAdo/ckb-buillder-track/tree/main/lean_oracle) | | Ongoing | 
