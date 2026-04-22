@@ -46,7 +46,7 @@ If you have a project you would like to receive feedback on, please follow these
 | MorseCode | MintGate: gated communities | | https://mint-gate.vercel.app/ | Ongoing |
 | Rick      | CKB Kickstarter     |     [Link](https://github.com/RickSoze001/ckb-builder-progress-report/blob/main/Week_13.md)   | https://decentralized-kickstarter-kappa.vercel.app/        | Ongoing |
 | Amine | CKB Node Manager | [Link](https://github.com/Amine1n1/ckb-node-manager/releases/tag/v1.0.0) | | Ongoing |
-| Chetan      | ChainPress     |  [Link](https://github.com/chetanchauhan64/CKB-Academy-Progress/tree/main/frontend)      |   https://ckb-academy-progress.vercel.app/      | Awaiting feedback |
+| Chetan      | ChainPress     |  [Link](https://github.com/chetanchauhan64/CKB-Academy-Progress/tree/main/frontend)      |   https://ckb-academy-progress.vercel.app/      | Implementing feedback |
 | Truthixify | Grid3 | [Link](https://github.com/truthixify/grid3) | https://grid3-ckb.vercel.app/ | Awaiting feedback |
 | Truthixify | Haven Protocol  | [Link](https://github.com/truthixify/haven) |  | Awaiting feedback |
 | vibes | Ohrex Protocol | [Link](https://github.com/Radiiplus/ckbuilders/blob/main/README.md) | |  Awaiting feedback |
@@ -55,7 +55,10 @@ If you have a project you would like to receive feedback on, please follow these
 | Destiny | Lean Oracle | [Link](https://github.com/calledAdo/ckb-buillder-track/tree/main/lean_oracle) | | Ongoing | 
 | Destiny | Lenderr | [Link](https://github.com/calledAdo/ckb-buillder-track/tree/main/lenderr_project) | | Ongoing |
 | Williams | CKB Privacy Mixer | [Link](https://github.com/willy264/ckb-privacy-mixer) | | Ongoing |
-
-
+| Antismart | Cellora: a multi-tenant indexing and query service for CKB | [Link](https://github.com/Antismart/cellora) | | Awaiting feedback |
+| Cecilia  | Spectre Protocol: ZK key recovery for autonomous AI agents on CKB | [Link](https://github.com/CECILIA-MULANDI/spectre-protocol-ckb) | | Awaiting feedback |
+| MorseCode | CKB connect wallet refactor (CCC component) | [Link](https://github.com/Victor-Okenwa/revamp-ckb-connect-wallet) | | Awaiting feedback |
+| Truthixify | Wraith Protocol: Stealth Address Payments on CKB | [Link](https://github.com/wraith-protocol) | https://demo.usewraith.xyz/ | Ongoing |
+   
    TBC
   
