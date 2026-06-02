@@ -64,8 +64,12 @@ If you have a project you would like to receive feedback on, please follow these
 | Truthixify | Vellum: a reference dashboard and SDK for did:ckb | [Link](https://github.com/truthixify/vellum) | https://vellum-lyart.vercel.app/ | Ongoing |
 | AnihDev | CKB Governance | [Link](https://github.com/anihdev/ckb-voting-dapp) | https://ckb-voting-dapp.vercel.app/ | Implementing feedback |
 | Ticoworld | FiberLatch | [Link](https://github.com/Ticoworld/fiber-latch) |  | Awaiting feedback |
+| Leothatguy | Loavix: CKB and Fiber invoices |  | https://loavix-frontend.vercel.app/ | Ongoing |
+| David | CKB Quest | [Link](https://github.com/David-Pjs/ckb-playground/tree/main/ckb-quest) | https://ckb-quest.vercel.app/  | Ongoing |
+| digitaldreamer | CKB Firewall | [Link](https://github.com/digitaldrreamer/ckb-transaction-firewall) | https://ckb-firewall.drreamer.digital/  | Ongoing |
+| Jeremic | Aircraft MLAT Localization | [Link](https://github.com/Jeremicarose/AIRCRAFT-MALT) |   | Ongoing | 
+| Hallab | Attest CKB | [Link](https://github.com/Hallab7/ckb-attestation-protocol) |  https://attestckb.vercel.app  | Ongoing | 
+| Cristofa | Contest Ledger | [Link](https://github.com/christofa/contestledger) |  https://contestledger.vercel.app/auth  | Ongoing | 
 
-
-   
    TBC
   
