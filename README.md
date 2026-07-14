@@ -37,39 +37,46 @@ If you have a project you would like to receive feedback on, please follow these
 | Wadie      | Eterna Registry: on-chain land registration     |        |  https://ckb-registry.vercel.app/        | Inactive | 
 | RJnr      | Pocket Node: light client android wallet     | [Link](https://github.com/RaheemJnr/pocket-node/releases)       |  https://www.pocket-node.com         | DAO grant |
 | Phill      | Blackbox: POS terminal     |  [Link](https://github.com/toastmanAu/Blackbox-Binaries)       |   https://www.blackboxpos.com      | Ongoing |
-| Aditya      | DripFund: crowdfunding     |  [Link](https://github.com/adisuyash/ckb-notes/tree/main/buy-me-a-coffee)       |  https://dripfund.vercel.app/         | Implementing feedback |
-| Naitik      | CKB Arcade: minigames and lottery     |  [Link](https://github.com/GxNaitik/ckb-arcade/blob/main/weekly-logs/week6.md)       |  https://ckb-spintowin.vercel.app/         | Implementing feedback |
+| Aditya      | DripFund: crowdfunding     |  [Link](https://github.com/adisuyash/ckb-notes/tree/main/buy-me-a-coffee)       |  https://dripfund.vercel.app/         | POC complete |
+| Naitik      | CKB Arcade: minigames and lottery     |  [Link](https://github.com/GxNaitik/ckb-arcade/blob/main/weekly-logs/week6.md)       |  https://ckb-spintowin.vercel.app/         | POC complete |
 | Petelgeuse      | CKB-PoP: proof of participation     | [Link](https://github.com/RobaireTH/ckb-PoP.git)       |  https://ckb-pop.xyz/#/         | Implementing feedback |
 | Oluwaseun      | InheritVault: time-locked inheritance     |    [Link](https://inherit-vault.vercel.app/)    |  https://inherit-vault.vercel.app/         | Implementing feedback |
 | Dragon Dev      | Dragon Rush: 3 match game     | [Link](https://github.com/mememadness)       |  https://dragon-test.mememadness.xyz/         | Ongoing |
 | Smilez      | Cvent: Event ticketing     | [Link](https://github.com/RobaireTH/ckb-PoP.git)       |  https://cvent-chi.vercel.app/      | POC complete | 
-| MorseCode | MintGate: gated communities | | https://mint-gate.vercel.app/ | Awaiting feedback |
+| MorseCode | MintGate: gated communities | | https://mint-gate.vercel.app/ | Implementing feedback |
 | Rick      | CKB Kickstarter     |     [Link](https://github.com/RickSoze001/ckb-builder-progress-report/blob/main/Week_13.md)   | https://decentralized-kickstarter-kappa.vercel.app/        | Implementing feedback |
 | Amine | CKB Node Manager | [Link](https://github.com/Amine1n1/ckb-node-manager/releases/tag/v1.0.0) | | Ongoing |
-| Chetan      | ChainPress     |  [Link](https://github.com/chetanchauhan64/CKB-Academy-Progress/tree/main/frontend)      |   https://ckb-academy-progress.vercel.app/      | Implementing feedback |
+| Chetan      | ChainPress     |  [Link](https://github.com/chetanchauhan64/CKB-Academy-Progress/tree/main/frontend)      |   https://ckb-academy-progress.vercel.app/      | POC complete |
 | Truthixify | Grid3 | [Link](https://github.com/truthixify/grid3) | https://grid3-ckb.vercel.app/ | POC complete |
-| Truthixify | Haven Protocol  | [Link](https://github.com/truthixify/haven) |  | Awaiting feedback |
+| Truthixify | Haven Protocol  | [Link](https://github.com/truthixify/haven) |  | POC complete |
 | vibes | Ohrex Protocol | [Link](https://github.com/Radiiplus/ckbuilders/blob/main/README.md) | |  POC complete |
 | Oluwaseun | PactAgent | [Link](https://github.com/Ajayfrizzy/pactagent) | https://www.pactagent.online/ | Ongoing |
 | Petelgeuse | NERVE marketplace | [Link](https://github.com/RobaireTH/NERVE/) | https://nerve-docs.vercel.app/ | Ongoing | 
 | Destiny | Lean Oracle | [Link](https://github.com/calledAdo/ckb-buillder-track/tree/main/lean_oracle) | | Ongoing | 
 | Destiny | Lenderr | [Link](https://github.com/calledAdo/ckb-buillder-track/tree/main/lenderr_project) | | Ongoing |
 | Williams | CKB Privacy Mixer | [Link](https://github.com/willy264/ckb-privacy-mixer) | | Ongoing |
-| Antismart | Cellora: a multi-tenant indexing and query service for CKB | [Link](https://github.com/Antismart/cellora) | | Awaiting feedback |
+| Antismart | Cellora: a multi-tenant indexing and query service for CKB | [Link](https://github.com/Antismart/cellora) | | Implementing feedback |
 | Cecilia  | Spectre Protocol: ZK key recovery for autonomous AI agents on CKB | [Link](https://github.com/CECILIA-MULANDI/spectre-protocol-ckb) | | Implementing feedback |
 | MorseCode | CKB connect wallet refactor (CCC component) | [Link](https://github.com/Victor-Okenwa/revamp-ckb-connect-wallet) | | POC complete |
-| Smilez | Fiber Desktop | [Link](https://github.com/chukwuma619/fiber-desktop) | https://fiber-desktop.vercel.app/ | DAO grant proposal stage |
+| Smilez | Fiber Desktop | [Link](https://github.com/chukwuma619/fiber-desktop) | https://fiber-desktop.vercel.app/ | DAO grant  |
 | Cecilia | A Groth16 zkSNARK verifier for CKB-VM | [Link](https://github.com/CECILIA-MULANDI/groth16-ckb) |  | Ongoing |
 | Petelgeuse | pckt: A friendly way to send CKB | [Link](https://github.com/RobaireTH/pckt) | https://sendpckt.robaireth.dev/ | Implementing feedback |
-| Truthixify | Vellum: a reference dashboard and SDK for did:ckb | [Link](https://github.com/truthixify/vellum) | https://vellum-lyart.vercel.app/ | Ongoing |
+| Truthixify | Vellum: a reference dashboard and SDK for did:ckb | [Link](https://github.com/truthixify/vellum) | https://vellum-lyart.vercel.app/ | DAO proposal |
 | AnihDev | CKB Governance | [Link](https://github.com/anihdev/ckb-voting-dapp) | https://ckb-voting-dapp.vercel.app/ | Implementing feedback |
-| Ticoworld | FiberLatch | [Link](https://github.com/Ticoworld/fiber-latch) |  | Awaiting feedback |
+| Ticoworld | FiberLatch | [Link](https://github.com/Ticoworld/fiber-latch) |  | DAO grant |
 | Leothatguy | Loavix: CKB and Fiber invoices |  | https://loavix-frontend.vercel.app/ | Ongoing |
 | David | CKB Quest | [Link](https://github.com/David-Pjs/ckb-playground/tree/main/ckb-quest) | https://ckb-quest.vercel.app/  | Ongoing |
 | digitaldreamer | CKB Firewall | [Link](https://github.com/digitaldrreamer/ckb-transaction-firewall) | https://ckb-firewall.drreamer.digital/  | Ongoing |
-| Jeremic | Aircraft MLAT Localization | [Link](https://github.com/Jeremicarose/AIRCRAFT-MALT) |   | Ongoing | 
+| Jeremic | Aircraft MLAT Localization | [Link](https://github.com/Jeremicarose/AIRCRAFT-MALT) |   | Implementing feedback | 
 | Hallab | Attest CKB | [Link](https://github.com/Hallab7/ckb-attestation-protocol) |  https://attestckb.vercel.app  | Ongoing | 
 | Cristofa | Contest Ledger | [Link](https://github.com/christofa/contestledger) |  https://contestledger.vercel.app/auth  | Ongoing | 
-
+| Habeeblai | CKB Lattice (ML-DSA) | [Link](https://github.com/beebozy/ckb-pq-dillithium-) | | Implementing feedback |
+| Felix | CKB Geo-Wars | [Link](https://github.com/Felabs1/ckb-geo-wars) | https://ckb-geo-wars.vercel.app/ | Implementing feedback |
+| vibes | Orbital | [Link](https://github.com/Radiiplus/Orbital) | https://orbital10.web.app/ | Ongoing |
+| Truthixify | Infern | [Link](https://github.com/truthixify/infern) | | Ongoing |
+| Alchemist | CellScript AMM | [Link](https://github.com/WuodOdhis/cellscript-swap-builder) | | Ongoing|
+| Konquest | CKBuilder developer kit | | https://crates.io/crates/ckbuilder | POC complete | 
+| Destiny | CKB Up/Down prediction pools | [Link](https://github.com/calledAdo/asset-up-down-pools/tree/main)  | | Ongoing |
+| Pascal | Freight on Nervos | [Link](https://github.com/Birdmannn/fon) | https://freight43.vercel.app/ | Ongoing |
    TBC
   
