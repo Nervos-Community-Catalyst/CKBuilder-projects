@@ -61,7 +61,7 @@ If you have a project you would like to receive feedback on, please follow these
 | Smilez | Fiber Desktop | [Link](https://github.com/chukwuma619/fiber-desktop) | https://fiber-desktop.vercel.app/ | DAO grant  |
 | Cecilia | A Groth16 zkSNARK verifier for CKB-VM | [Link](https://github.com/CECILIA-MULANDI/groth16-ckb) |  | Ongoing |
 | Petelgeuse | pckt: A friendly way to send CKB | [Link](https://github.com/RobaireTH/pckt) | https://sendpckt.robaireth.dev/ | Implementing feedback |
-| Truthixify | Vellum: a reference dashboard and SDK for did:ckb | [Link](https://github.com/truthixify/vellum) | https://vellum-lyart.vercel.app/ | DAO proposal |
+| Truthixify | Vellum: a reference dashboard and SDK for did:ckb | [Link](https://github.com/truthixify/vellum) | https://vellum-lyart.vercel.app/ | DAO grant |
 | AnihDev | CKB Governance | [Link](https://github.com/anihdev/ckb-voting-dapp) | https://ckb-voting-dapp.vercel.app/ | Implementing feedback |
 | Ticoworld | FiberLatch | [Link](https://github.com/Ticoworld/fiber-latch) |  | DAO grant |
 | Leothatguy | Loavix: CKB and Fiber invoices |  | https://loavix-frontend.vercel.app/ | Ongoing |
@@ -78,5 +78,17 @@ If you have a project you would like to receive feedback on, please follow these
 | Konquest | CKBuilder developer kit | | https://crates.io/crates/ckbuilder | POC complete | 
 | Destiny | CKB Up/Down prediction pools | [Link](https://github.com/calledAdo/asset-up-down-pools/tree/main)  | | Ongoing |
 | Pascal | Freight on Nervos | [Link](https://github.com/Birdmannn/fon) | https://freight43.vercel.app/ | Ongoing |
-   TBC
+| Truthixify | CKB-viz | [Link](https://github.com/truthixify/ckb-viz) | https://ckb-viz.truthixify.dev/ | Ongoing |
+| Wilfrid Okorie | LS-IDL | [Link](https://github.com/Nervos-Community-Catalyst/CKBuilder-projects/issues/29) |  | Ongoing |
+| 0xledger | noir-ckb | [Link](https://github.com/wamimi/noir-ckb-verifier) |  | Ongoing |
+| Somtee | Streak: parimutuel football prediction market  | [Link](https://github.com/HeySomtee/ckbuilder) | https://streak-terminal.onrender.com/ | Ongoing |
+| Hiep | Credora: CKB Credentials registry | [Link](https://github.com/hiepthach/Credora_CKB) | https://credora-ckb.vercel.app/ | Ongoing |
+| Hayden | Fiber Survivors | [Link](https://github.com/TranNhi27/CKBuilder) | https://zesty-youtiao-8586ae.netlify.app/ | Ongoing |
+| Manny | CKB-Vault | [Link](https://github.com/Mannychino/CKB-Vault.git) |  | Ongoing |
+| Dang Ty | SkillPass | [Link](https://github.com/tydeptrai21042004/ckb-skill) | https://ckb-skill.vercel.app/ | Ongoing |
+| Oluwaseun | Veyrivo: work marketplace backed by PactAgent | [Link](https://github.com/Ajayfrizzy/veyrivo.git) | https://veyrivo-web.vercel.app/ | Ongoing |
+| Kaze team | Kaze | [Link] | https://usekaze.app/ | Ongoing |
+| jedi-dtechmaker | CKScope - A CCC native CKB explorer | [Link](https://github.com/jedi-dtechmaker/CKScope) |  | Ongoing |
+| Ticoworld | CKB Script Port | [Link](https://github.com/Ticoworld/ckb-script-port) |  | Ongoing | 
+| Lucent Team | Lucent DEx | [Link](https://github.com/LucentLabss/ckb-dex) | https://lucent-dex.vercel.app/ | Ongoing |
   
