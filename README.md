@@ -91,4 +91,5 @@ If you have a project you would like to receive feedback on, please follow these
 | jedi-dtechmaker | CKScope - A CCC native CKB explorer | [Link](https://github.com/jedi-dtechmaker/CKScope) |  | Ongoing |
 | Ticoworld | CKB Script Port | [Link](https://github.com/Ticoworld/ckb-script-port) |  | Ongoing | 
 | Lucent Team | Lucent DEx | [Link](https://github.com/LucentLabss/ckb-dex) | https://lucent-dex.vercel.app/ | Ongoing |
+| Karas | Nine Cells tower defense game | Link | https://nine-cells.karasdev.com/ | Ongoing |
   
