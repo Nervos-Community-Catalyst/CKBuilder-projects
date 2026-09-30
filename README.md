@@ -86,7 +86,7 @@ If you have a project you would like to receive feedback on, please follow these
 | Hayden | Fiber Survivors | [Link](https://github.com/TranNhi27/CKBuilder) | https://zesty-youtiao-8586ae.netlify.app/ | Ongoing |
 | Manny | CKB-Vault | [Link](https://github.com/Mannychino/CKB-Vault.git) |  | Ongoing |
 | Dang Ty | SkillPass | [Link](https://github.com/tydeptrai21042004/ckb-skill) | https://ckb-skill.vercel.app/ | Ongoing |
-| Oluwaseun | Veyrivo: work marketplace backed by PactAgent | [Link](https://github.com/Ajayfrizzy/veyrivo.git) | https://veyrivo-web.vercel.app/ | Ongoing |
+| Oluwaseun | Klaveroq: work marketplace backed by PactAgent | [Link](https://github.com/Ajayfrizzy/veyrivo.git) | https://beta.klaveroq.com/ | Ongoing |
 | Kaze team | Kaze | [Link] | https://usekaze.app/ | Ongoing |
 | jedi-dtechmaker | CKScope - A CCC native CKB explorer | [Link](https://github.com/jedi-dtechmaker/CKScope) |  | Ongoing |
 | Ticoworld | CKB Script Port | [Link](https://github.com/Ticoworld/ckb-script-port) |  | Ongoing | 
