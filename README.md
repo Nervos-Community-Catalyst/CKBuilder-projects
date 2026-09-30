@@ -44,7 +44,7 @@ If you have a project you would like to receive feedback on, please follow these
 | Dragon Dev      | Dragon Rush: 3 match game     | [Link](https://github.com/mememadness)       |  https://dragon-test.mememadness.xyz/         | Ongoing |
 | Smilez      | Cvent: Event ticketing     | [Link](https://github.com/RobaireTH/ckb-PoP.git)       |  https://cvent-chi.vercel.app/      | POC complete | 
 | MorseCode | MintGate: gated communities | | https://mint-gate.vercel.app/ | Implementing feedback |
-| Rick      | CKB Kickstarter     |     [Link](https://github.com/RickSoze001/ckb-builder-progress-report/blob/main/Week_13.md)   | https://decentralized-kickstarter-kappa.vercel.app/        | Implementing feedback |
+| Rick      | CrowdCell     |     [Link](https://github.com/alesfer001/decentralized-kickstarter)  | https://crowdcell.vercel.app/        | Implementing feedback |
 | Amine | CKB Node Manager | [Link](https://github.com/Amine1n1/ckb-node-manager/releases/tag/v1.0.0) | | Ongoing |
 | Chetan      | ChainPress     |  [Link](https://github.com/chetanchauhan64/CKB-Academy-Progress/tree/main/frontend)      |   https://ckb-academy-progress.vercel.app/      | POC complete |
 | Truthixify | Grid3 | [Link](https://github.com/truthixify/grid3) | https://grid3-ckb.vercel.app/ | POC complete |
