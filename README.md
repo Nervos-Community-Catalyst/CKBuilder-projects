@@ -107,3 +107,5 @@ If you have a project you would like to receive feedback on, please follow these
 | Ticoworld | QuotaCell |  [Link](https://github.com/Ticoworld/QuotaCell) |  | Ongoing |
 | Anthony Kimani | Living Passport | [Link](https://github.com/anthonykimani/ckbuilders/tree/main/living-passport) | https://ckbuilders-two.vercel.app/ | Ongoing |
 | Hallab | CKAutomata |  [Link](https://github.com/Hallab7/ckb-automata) | https://ckb-automata.vercel.app/ | Ongoing |
+| Pham Thinh | ReuseLoop | [Link](https://github.com/ptt2908/ReuseLoop) | | Ongoing | 
+
